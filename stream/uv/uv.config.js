@@ -1,13 +1,13 @@
 self.__uv$config = {
-    prefix: 'embed/',
+    prefix: '/Stream-Star/stream/embed/',
     
     // BARE SERVER
     bare:'https://sysadmin.us.kg',
     
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
-    handler: 'uv.handler.js',
-    bundle: 'uv.bundle.js',
-    config: 'uv.config.js',
-    sw: 'uv.sw.js',
+    handler: '/Stream-Star/stream/uv.handler.js',
+    bundle: '/Stream-Star/stream/uv.bundle.js',
+    config: '/Stream-Star/stream/uv.config.js',
+    sw: '/Stream-Star/stream/uv.sw.js',
 };
