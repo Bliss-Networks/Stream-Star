@@ -2,7 +2,7 @@ self.__uv$config = {
     prefix: '/Stream-Star/stream/watch/',
     
     // BARE SERVER
-    bare:'https:https://sysadmin.us.kg/',
+    bare:'https://sysadmin.us.kg/',
     
     encodeUrl: Ultraviolet.codec.xor.encode,
     decodeUrl: Ultraviolet.codec.xor.decode,
