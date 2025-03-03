@@ -1,5 +1,5 @@
 self.__uv$config = {
-    prefix: '/Stream-Star/stream/embed/watch/',
+    prefix: '/Stream-Star/stream/watch/',
     
     // BARE SERVER
     bare:'https:https://sysadmin.us.kg/',
